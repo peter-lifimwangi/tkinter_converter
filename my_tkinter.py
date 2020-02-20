@@ -63,6 +63,6 @@ button2.grid(row =5,column=1)
 outputlabel1=Label(font=('verdana',12))
 outputlabel1.grid(row=7,column=1)
 outputlabel2=Label(font=('arial',14))
-outputlabel2.grid(row=9,column=1)
+outputlabel2.grid(row=10,column=2)
 mainloop()
 
